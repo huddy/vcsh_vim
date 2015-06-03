@@ -1,0 +1,12 @@
+*
+!/.gitignore.d
+!/.gitignore.d/vim
+!/.vim
+!/.vim/bundle
+!/.vim/bundle/Vundle.vim
+!/.vim/bundle/nerdtree
+!/.vim/bundle/syntastic
+!/.vim/bundle/tagbar
+!/.vim/bundle/vim-airline
+!/.vim/bundle/vim-fugitive
+!/.vimrc
