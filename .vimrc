@@ -19,6 +19,13 @@ set laststatus=2
 "syntax related stuff
 syntax on
 
+"tabs
+set shiftwidth=2
+set tabstop=2
+set softtabstop=2
+set shiftround
+set expandtab
+
 "required vundle end calls
 call vundle#end()
 filetype plugin indent on
